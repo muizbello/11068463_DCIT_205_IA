@@ -1,29 +1,9 @@
-.buttonlinks{
-    margin-right: -5px;
-    
-}
-.externalinks{
-    margin-right:10px; 
-    margin-left: 1px; 
-    width: 300px;
-    justify-content: center;
-    
-}
-.externalinks:hover{
-    box-shadow: 1px 1px 5px #baaeae;
-    border-radius: 9px;
-    margin-bottom: 5px;
-}
-
 .department-logo{
     display: flex;
+    
 }
-
-.subdivisions{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-
+.top{
+    margin-right: 320px;
 }
 
 .query{
@@ -53,52 +33,35 @@
 .button:hover{
     box-shadow: 2px 2px 4px #5a1515
 }
-
-.linker{
-    width: 300px;
-    height: 182px;
-    margin-bottom: -15px;
-    border-radius: 10px;
+.nav-container{
+    background-color: #919199;
+    text-decoration: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 25px;
+    text-decoration-line: none;
+    width: fit-content;
+    
 }
-
-.top{
-    margin-right: 320px;
+.nav-items{
+    vertical-align: middle;
+    border-right: 2px solid;
+    padding-right: 17px;
+    padding-left: 17px;
+    color: rgb(218, 210, 210);
+    text-decoration: none;
+    text-align: middle;
+    font-size: 13pt;
+    padding-bottom: 6px;
 }
-
-#slideshow-container {
-    width: 900px;
-    position: relative;
-    margin: auto;
-    overflow: hidden;
-    border-radius: 15px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    background-color: #f9f9fc;
-    margin-bottom: 10px;
-    margin-top: 10px;
+.nav-items:hover{
+    background-color: #85858a;
+    box-shadow: 0.5px 0.5px 3px #5a1515;
 }
-
-/* Style for the images */
-.mySlides {
-    display: none;
-    width: 900px;
-    height: 450px;
-    animation: slideRight 3s linear;
-}
-
-/* Keyframe animation for sliding from right to left */
-@keyframes slideRight {
-    from {
-        transform: translateX(100%);
-    }
-    to {
-        transform: translateX(0%);
-    }
-}
-
 .mainbody{
     padding: 20px;
     margin: 1px;
-    background-image: url('../Media_files/back1.jpg'); /* Replace 'background-image.jpg' with the path to your image */
+    background-image: url('../Media_files/back1.jpg'); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
