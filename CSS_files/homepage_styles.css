@@ -98,10 +98,47 @@
 .mainbody{
     padding: 20px;
     margin: 1px;
-    background-image: url('../Media_files/back1.jpg'); 
+    background-image: url('../Media_files/back15.jpg'); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+}
+.homepage-message{
+    width: 1100px;
+    margin-top: -17px;
+    margin-bottom: 7px;
+    margin-left: 117px;
+    align-content: center;
+    font-size: 17pt;
+    color: rgb(84, 82, 82);
+    background-color: rgba(255, 255, 255, 0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
+    padding-left: 3px;
+    border-radius: 5px;
+}
+.nav-container{
+    background-color: #919199;
+    text-decoration: none;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    height: 25px;
+    text-decoration-line: none;
+    width: fit-content;
+}
+.nav-items{
+    vertical-align: middle;
+    border-right: 2px solid;
+    padding-right: 16px;
+    padding-left: 17px;
+    color: rgb(218, 210, 210);
+    text-decoration: none;
+    text-align: middle;
+    font-size: 13pt;
+    padding-bottom: 6px;
+}
+.nav-items:hover{
+    background-color: #85858a;
+    box-shadow: 0.5px 0.5px 3px #5a1515;
 }
 .home-footer{
     display: grid;
