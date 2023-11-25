@@ -55,7 +55,7 @@
 .about-content img{
     width: 350px;
     margin-left: 10px;
-    margin-top: -50px;
+    margin-top: -30px;
     border-radius: 10px;
 }
 .about-content p{
@@ -66,6 +66,7 @@
     color: #363434;
     font-size: 24pt;
     font-weight: bold;
+    margin-top: -3px;
     margin-bottom: -10px;
 }
 .section-header:hover{
@@ -204,8 +205,55 @@
     font-size: 15pt;
     margin-top: -10px;
 }
+
 .floating-image{
     float: left;
     margin: 0 20px 20px 0;
     width: 500px;
 }
+.dropdown {
+    position: relative;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 7px;
+  }
+  
+  .dropdown-toggle {
+    background-color: rgba(102, 100, 100, 0.9);
+    padding-right: 400px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: relative;
+    background-color: rgba(226, 224, 224, 0.7) ;
+    min-width: 450px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    
+  }
+  .dropdown-toggle::after {
+    content: "\25BC"; 
+    position: absolute;
+    right: 10px; 
+    color: #424141;
+  }
+  
+  .dropdown-content p {
+    padding: 10px;
+    margin: 0;
+    border-bottom: 1px solid #fcfbfb;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .dropdown span{
+    width: 300px;
+    height: 8888px;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
