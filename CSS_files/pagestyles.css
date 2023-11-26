@@ -53,9 +53,10 @@
     background-color: rgba(255, 255, 255, 0.4);
 }
 .about-content img{
-    width: 350px;
+    max-width: 450px;
+    max-height: 300px;
     margin-left: 10px;
-    margin-top: -30px;
+    margin-top: -25px;
     border-radius: 10px;
 }
 .about-content p{
@@ -216,6 +217,7 @@
     display: inline-block;
     margin-top: 10px;
     margin-bottom: 7px;
+    
   }
   
   .dropdown-toggle {
@@ -230,7 +232,7 @@
     display: none;
     position: relative;
     background-color: rgba(226, 224, 224, 0.7) ;
-    min-width: 450px;
+    max-width: 500px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     
   }
