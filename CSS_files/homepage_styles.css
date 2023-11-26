@@ -7,12 +7,16 @@
     margin-left: 1px; 
     width: 300px;
     justify-content: center;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 9px;
+    margin-bottom: 5px;
     
 }
 .externalinks:hover{
     box-shadow: 1px 1px 5px #baaeae;
     border-radius: 9px;
     margin-bottom: 5px;
+    background-color: rgba(255, 255, 255, 0.6);
 }
 
 .department-logo{
@@ -188,6 +192,7 @@
 
 .sub-heading{
     font-size: 13pt;
+    color: #38383a;
 }
 .logo{
     height: 107px;
