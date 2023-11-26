@@ -259,4 +259,27 @@
     display: block;
   }
 
-  
+  .parents-container {
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
+
+  .childs-box {
+    width: 360px;
+    background-color: rgba(231, 225, 225, 0.6);
+    border-radius: 9px;
+    margin-right: 60px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+  }
+  .childs-box img{
+    width: 360px;
+    height: 300px;
+    margin-bottom: -5px;
+    border-radius: 9px;
+  }
+  .childs-box p{
+    color: #262626;
+    font-size: 14pt;
+  }
