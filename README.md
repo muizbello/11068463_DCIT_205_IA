@@ -10,7 +10,6 @@
 6. [Screenshots](#screenshots)
 6. [Learning Experience](#learning-take-aways-from-the-project)
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-xw4vHYuHiCHUWs7O9w8P+FQQBSJ6M1CrDH3hLwXW1XgkWn2aAIqT1RP1Z6jcaB++kGY+djlrQD7iklfT2x7MXg==" crossorigin="anonymous" />
 
 ### Project Description
 This project is designed in line with the requirements for the Interim Assessment for DCIT 205. It is my reimagined version of the Computer Science Department's website. 
@@ -63,25 +62,25 @@ You should receive a message on the terminal as proof of completion.
 ### Screenshots
 Below are the screenshots of the webpages.
 #### Homepage
-![Homepage](Media_Files/homepageI.jpeg)
+![Homepage](../Media_Files/homepageI.jpeg)
 #### Contact Us
-![Contact](Media_Files/ContactI.jpeg)
+![Contact](../Media_Files/ContactI.jpeg)
 #### About
-![About](Media_Files/AboutI.jpeg)
+![About](../Media_Files/AboutI.jpeg)
 #### Undergraduate Programs
-![Undergraduate](Media_Files/undergradI.jpeg)
+![Undergraduate](../Media_Files/undergradI.jpeg)
 #### Postgraduate Programs
-![Postgrad](Media_Files/postgradI.jpeg)
+![Postgrad](../Media_Files/postgradI.jpeg)
 #### Facilities
-![Facilities](Media_Files/facilitiesI.jpeg)
+![Facilities](../Media_Files/facilitiesI.jpeg)
 #### Student Organisation
-![Compssa](Media_Files/compssaI.jpeg)
+![Compssa](../Media_Files/compssaI.jpeg)
 #### Entry Requirements
-![Entry Requirements](Media_Files/entryI.jpeg)
+![Entry Requirements](../Media_Files/entryI.jpeg)
 #### Faculty
-![Faculty](Media_Files/facultyI.jpeg)
+![Faculty](../Media_Files/facultyI.jpeg)
 #### Admissions
-![CompSSA](Media_Files/admissionsI.jpeg)
+![CompSSA](../Media_Files/admissionsI.jpeg)
 
 ### Learning Take-aways from the project
 Through this project; 
