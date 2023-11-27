@@ -62,25 +62,25 @@ You should receive a message on the terminal as proof of completion.
 ### Screenshots
 Below are the screenshots of the webpages.
 #### Homepage
-![Homepage](../Media_Files/homepageI.jpeg)
+![Homepage](/Media_Files/homepageI.jpeg)
 #### Contact Us
-![Contact](../Media_Files/ContactI.jpeg)
+![Contact](/Media_Files/ContactI.jpeg)
 #### About
-![About](../Media_Files/AboutI.jpeg)
+![About](/Media_Files/AboutI.jpeg)
 #### Undergraduate Programs
-![Undergraduate](../Media_Files/undergradI.jpeg)
+![Undergraduate](/Media_Files/undergradI.jpeg)
 #### Postgraduate Programs
-![Postgrad](../Media_Files/postgradI.jpeg)
+![Postgrad](/Media_Files/postgradI.jpeg)
 #### Facilities
-![Facilities](../Media_Files/facilitiesI.jpeg)
+![Facilities](/Media_Files/facilitiesI.jpeg)
 #### Student Organisation
-![Compssa](../Media_Files/compssaI.jpeg)
+![Compssa](/Media_Files/compssaI.jpeg)
 #### Entry Requirements
-![Entry Requirements](../Media_Files/entryI.jpeg)
+![Entry Requirements](/Media_Files/entryI.jpeg)
 #### Faculty
-![Faculty](../Media_Files/facultyI.jpeg)
+![Faculty](/Media_Files/facultyI.jpeg)
 #### Admissions
-![CompSSA](../Media_Files/admissionsI.jpeg)
+![CompSSA](/Media_Files/admissionsI.jpeg)
 
 ### Learning Take-aways from the project
 Through this project; 
